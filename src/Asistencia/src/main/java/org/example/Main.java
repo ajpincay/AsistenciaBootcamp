@@ -9,6 +9,12 @@ public class Main {
 	      System.out.println("Presente: Mateo Chávez");
         System.out.println("Presente: Leynder Sánchez");
         System.out.println("Presente: Daniel Olivo");
+        System.out.println("Presente: Kevin Chevez");
+        System.out.println("Presente: Anthony Herrera");
+        System.out.println("Presente: Leonardo Sebastian Lopez Vallejo");
+        System.out.println("Presente: Geovanny Nieves");
+        System.out.println("Presente: Alina Carpio");
+        System.out.println("Presente: Julio Cajas");
         System.out.println("Presente: Erick Cordova");
         System.out.println("Presente: Arturo Parra");
         System.out.println("Presente: Ronaldo Rodriguez.");
