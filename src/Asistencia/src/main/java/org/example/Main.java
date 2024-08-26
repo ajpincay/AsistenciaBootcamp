@@ -6,6 +6,9 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Presente: Angel Pincay");
+        System.out.println("Presente: Enmanuel Ochoa");
+        System.out.println("Presente: Leynder Sánchez");
+        System.out.println("Presente: Daniel Olivo");
         System.out.println("Presente: Josue Esparza");
 	      System.out.println("Presente: Mateo Chávez");
         System.out.println("Presente: Leynder Sánchez");
@@ -21,6 +24,5 @@ public class Main {
         System.out.println("Presente: Ronaldo Rodriguez.");
         System.out.println("Presente: Leynder Sánchez");
         System.out.println("Presente: Daniel Olivo");
-
     }
 }
