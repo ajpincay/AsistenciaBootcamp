@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Presente: Angel Pincay");
         System.out.println("Presente: Joel Guamaní");
+        
     }
 }
