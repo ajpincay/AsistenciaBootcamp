@@ -28,6 +28,7 @@ public class Main {
         System.out.println("Presente: Ronaldo Rodriguez.");
         System.out.println("Presente: Leynder Sánchez");
         System.out.println("Presente: Daniel Olivo");
+        System.out.println("Presente: Jair Rodriguez");
 
     }
 }
