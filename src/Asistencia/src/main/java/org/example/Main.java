@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("Presente: Angel Pincay");
         System.out.println("Presente: Geovanny Nieves");
-
+        System.out.println("Presente: Leynder Sánchez");
+        System.out.println("Presente: Daniel Olivo");
     }
 }
